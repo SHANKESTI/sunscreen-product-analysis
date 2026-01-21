@@ -30,7 +30,3 @@ We explored ingredient safety, user-reported side effects, and UV protection eff
 
 ---
 
-## 🤝 Contributors
-- [SHANTVEER KESTI](https://github.com/SHANKESTI)  
-- [GAURI KUTAKOLE ](https://github.com/gaurimk)  
-*(Contributed equally to this project)*
